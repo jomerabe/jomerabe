@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I am Johana</h1>
 <h3 align="center">Am a data science learner, a geologist and a curious geek about random stuff</h3>
 
-- 🔭 I’m currently working on [Image Inpainting](https://github.com/jomerabe/image_inpainting)
+- 🔭 I’m currently working on something cool...bringing alive old family pictures :older_woman: :older_man:   :point_right: [Image Inpainting](https://github.com/jomerabe/image_inpainting)
 
-- 💬 Ask me about **geology, energy systems**
+- 💬 Ask me about **geology :earth_americas: :volcano:, energy systems :foggy:**
 
 - ⚡  **I think live is worth living!**
 
